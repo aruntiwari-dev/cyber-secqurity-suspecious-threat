@@ -2,7 +2,7 @@
 
 A machine learning project to detect and analyze suspicious web traffic behavior using AWS CloudWatch data.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on identifying potential cyber threats in real-time by analyzing web traffic logs using various data analysis (DA), feature analysis (FA), and machine learning (ML) techniques.
 
@@ -10,7 +10,7 @@ This project focuses on identifying potential cyber threats in real-time by anal
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Languages**: Python, SQL, Excel  
 - **Libraries**: `pandas`, `matplotlib`, `seaborn`, `sklearn`, `tensorflow`, `networkx`  
@@ -22,7 +22,7 @@ This project focuses on identifying potential cyber threats in real-time by anal
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry represents a web server interaction and includes metadata such as source/destination IPs, port, protocol, bytes in/out, country codes, and detection rule names.
 
@@ -30,7 +30,7 @@ The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry 
 
 ---
 
-## 🧪 Workflow
+##  Workflow
 
 ### 1. Data Preprocessing
 - Missing value handling
@@ -62,7 +62,7 @@ The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry 
 
 ---
 
-## 📊 Model Results
+##  Model Results
 
 | Model                 | Accuracy  |
 |----------------------|-----------|
@@ -73,7 +73,7 @@ The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry 
 
 ---
 
-## 📈 Sample Outputs
+##  Sample Outputs
 
 - Anomalies in web traffic clearly visualized with scatterplots
 - Detection of targeted traffic from specific country codes
@@ -82,7 +82,7 @@ The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry 
 
 ---
 
-## 🔍 Example Use Cases
+##  Example Use Cases
 
 - Cloud-based real-time threat detection
 - Suspicious behavior analytics in enterprise environments
@@ -91,7 +91,7 @@ The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry 
 
 ---
 
-## 📬 Contact
-- ### Author: Arun Tiwari
-- 📧 Email: aruntiwari1639@gmail.com
-- 🔗 LinkedIn/GitHub: [(https://github.com/aruntiwari-dev)]
+##  Author
+- ###  Arun Tiwari
+-  Email: aruntiwari1639@gmail.com
+
