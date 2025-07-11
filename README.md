@@ -92,6 +92,6 @@ The dataset comprises web traffic logs collected via AWS CloudWatch. Each entry 
 ---
 
 ##📬 Contact
-Author: Arun Tiwari
-📧 Email: your-email@example.com
-🔗 LinkedIn/GitHub: [(https://github.com/aruntiwari-dev)]
+- ### Author: Arun Tiwari
+- 📧 Email: aruntiwari1639@gmail.com
+- 🔗 LinkedIn/GitHub: [(https://github.com/aruntiwari-dev)]
